@@ -1,0 +1,31 @@
+PyCity Schools Data Analysis:
+
+The purpose of this analysis is to help the school board and mayor make 
+strategic decisions regarding future school budgets and priorities. The data 
+provided ample evidence of a few key points I’d like to speak about in this 
+brief summary of my findings. There seems to be a correlation between school 
+spending and overall grade proficiency. 
+
+The sources of data used to discover certain trends were student population and 
+the types of schools these students attend. The total budget for each school and 
+the total budget per capita were considered throughout the dataset. I also used 
+the average math scores and the top percentile in math in each school, as well 
+as the average reading scores and the top percentile in reading in each school. 
+I then calculated the overall achievements in reading and math, 
+combined, in each school to determine if any tendencies were evident. 
+
+There is glaring evidence that Charter schools performed much better overall in 
+math and reading given that the top 5 schools in learning competency were all 
+Charter schools. In contrast, it was also very clear that District schools 
+received larger budgets, though this detail didn’t lead to much success 
+scholastically due to the fact that the bottom five schools were all District 
+schools with all of them having much larger budgets than the Charter schools. 
+Sometimes three times as much. I’d be remiss if I didn’t note that the District 
+schools have quite a few more students per school, which may be a reason for 
+poorer scholastic achievement, but it doesn’t negate the findings and what the 
+data clearly shows. The main argument against this fact is that the total budget 
+per capita was between $578.00 and $655.00. This is not that big of a 
+discrepancy even though District schools tended to be larger. The only 
+conclusion I can make, to this point, is that it is possibly due to larger class 
+sizes, which may have led to the faculty having a harder time teaching, and the 
+students, a harder time learning in these environments.
