@@ -13,3 +13,9 @@ This script also uses Pandas and Jupyter Notebook to gather and organzie the dat
 Source Data: 
 
 Chat GPT Provider: OpenAI Model Version: GPT-3.5 Training Data: Diverse internet text Training Duration: Training duration was about 3-4 hours @article{openai2023, author = {OpenAI}, title = {ChatGPT: A Language Model by OpenAI}, year = {2023}, url = {https://www.openai.com}, }
+
+BCS app within Slack app
+
+Classmates 
+
+Stackoverflow
